@@ -6,7 +6,7 @@ using Books.Api.Entities;
 
 namespace Books.API.Services
 {
-    public interface IBookRepository
+    public interface IBooksRepository
     {
         Task<IEnumerable<Book>> GetBooksAsync();
         Task<Book> GetBookAsync(Guid id);

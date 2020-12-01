@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Books.API.Services
 {
-    public class BooksRepository : IBookRepository, IDisposable
+    public class BooksRepository : IBooksRepository, IDisposable
     {
 
         private BooksContext _context;

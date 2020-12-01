@@ -60,3 +60,4 @@ C:\Users\reeds\source\repos\PluralsightDemo\Books\Books.API\obj\Debug\netcoreapp
 C:\Users\reeds\source\repos\PluralsightDemo\Books\Books.API\obj\Debug\netcoreapp3.1\Books.API.dll
 C:\Users\reeds\source\repos\PluralsightDemo\Books\Books.API\obj\Debug\netcoreapp3.1\Books.API.pdb
 C:\Users\reeds\source\repos\PluralsightDemo\Books\Books.API\obj\Debug\netcoreapp3.1\Books.API.genruntimeconfig.cache
+C:\Users\reeds\source\repos\PluralsightDemo\Books\Books.API\obj\Debug\netcoreapp3.1\Books.API.csprojAssemblyReference.cache
