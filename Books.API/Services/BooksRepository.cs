@@ -26,6 +26,7 @@ namespace Books.API.Services
 
         public async Task<IEnumerable<Book>> GetBooksAsync()
         {
+            //await _context.Database.ExecuteSqlRawAsync("WAITFOR DELAY '00:00:02';");
             return await _context.Books.Include(b => b.Author).ToListAsync();
         }
         public void Dispose()
