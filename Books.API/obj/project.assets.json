@@ -389,6 +389,71 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "Microsoft.SqlServer.SqlManagementObjects.SSMS/161.44091.28": {
+        "type": "package",
+        "compile": {
+          "lib/net462/Microsoft.Data.Tools.Sql.BatchParser.dll": {},
+          "lib/net462/Microsoft.SqlServer.Assessment.Types.dll": {},
+          "lib/net462/Microsoft.SqlServer.Assessment.dll": {},
+          "lib/net462/Microsoft.SqlServer.ConnectionInfo.dll": {},
+          "lib/net462/Microsoft.SqlServer.Dmf.Common.dll": {},
+          "lib/net462/Microsoft.SqlServer.Dmf.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.Assessment.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.Collector.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.CollectorEnum.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.HadrData.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.HadrModel.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.RegisteredServers.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.Sdk.Sfc.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.SmoMetadataProvider.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.SqlScriptPublish.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.XEvent.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.XEventDbScoped.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.XEventDbScopedEnum.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.XEventEnum.dll": {},
+          "lib/net462/Microsoft.SqlServer.PolicyEnum.dll": {},
+          "lib/net462/Microsoft.SqlServer.RegSvrEnum.dll": {},
+          "lib/net462/Microsoft.SqlServer.ServiceBrokerEnum.dll": {},
+          "lib/net462/Microsoft.SqlServer.Smo.Notebook.dll": {},
+          "lib/net462/Microsoft.SqlServer.Smo.dll": {},
+          "lib/net462/Microsoft.SqlServer.SmoExtended.dll": {},
+          "lib/net462/Microsoft.SqlServer.SqlClrProvider.dll": {},
+          "lib/net462/Microsoft.SqlServer.SqlEnum.dll": {},
+          "lib/net462/Microsoft.SqlServer.SqlWmiManagement.dll": {},
+          "lib/net462/Microsoft.SqlServer.WmiEnum.dll": {}
+        },
+        "runtime": {
+          "lib/net462/Microsoft.Data.Tools.Sql.BatchParser.dll": {},
+          "lib/net462/Microsoft.SqlServer.Assessment.Types.dll": {},
+          "lib/net462/Microsoft.SqlServer.Assessment.dll": {},
+          "lib/net462/Microsoft.SqlServer.ConnectionInfo.dll": {},
+          "lib/net462/Microsoft.SqlServer.Dmf.Common.dll": {},
+          "lib/net462/Microsoft.SqlServer.Dmf.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.Assessment.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.Collector.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.CollectorEnum.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.HadrData.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.HadrModel.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.RegisteredServers.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.Sdk.Sfc.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.SmoMetadataProvider.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.SqlScriptPublish.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.XEvent.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.XEventDbScoped.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.XEventDbScopedEnum.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.XEventEnum.dll": {},
+          "lib/net462/Microsoft.SqlServer.PolicyEnum.dll": {},
+          "lib/net462/Microsoft.SqlServer.RegSvrEnum.dll": {},
+          "lib/net462/Microsoft.SqlServer.ServiceBrokerEnum.dll": {},
+          "lib/net462/Microsoft.SqlServer.Smo.Notebook.dll": {},
+          "lib/net462/Microsoft.SqlServer.Smo.dll": {},
+          "lib/net462/Microsoft.SqlServer.SmoExtended.dll": {},
+          "lib/net462/Microsoft.SqlServer.SqlClrProvider.dll": {},
+          "lib/net462/Microsoft.SqlServer.SqlEnum.dll": {},
+          "lib/net462/Microsoft.SqlServer.SqlWmiManagement.dll": {},
+          "lib/net462/Microsoft.SqlServer.WmiEnum.dll": {}
+        }
+      },
       "Microsoft.Win32.Registry/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -2164,6 +2229,101 @@
         "microsoft.netcore.targets.1.1.3.nupkg.sha512",
         "microsoft.netcore.targets.nuspec",
         "runtime.json"
+      ]
+    },
+    "Microsoft.SqlServer.SqlManagementObjects.SSMS/161.44091.28": {
+      "sha512": "ZHlA1F8pj0jAfCMACWlRE+yggYvekAF7ioyuLaL52fJigRKkzD3ECwkMTb89s3Le5cLS3C1iRJpIdnVcQBvPYw==",
+      "type": "package",
+      "path": "microsoft.sqlserver.sqlmanagementobjects.ssms/161.44091.28",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net462/Microsoft.Data.Tools.Sql.BatchParser.dll",
+        "lib/net462/Microsoft.Data.Tools.Sql.BatchParser.pdb",
+        "lib/net462/Microsoft.Data.Tools.Sql.BatchParser.xml",
+        "lib/net462/Microsoft.SqlServer.Assessment.Types.dll",
+        "lib/net462/Microsoft.SqlServer.Assessment.dll",
+        "lib/net462/Microsoft.SqlServer.ConnectionInfo.dll",
+        "lib/net462/Microsoft.SqlServer.ConnectionInfo.pdb",
+        "lib/net462/Microsoft.SqlServer.ConnectionInfo.xml",
+        "lib/net462/Microsoft.SqlServer.Dmf.Common.dll",
+        "lib/net462/Microsoft.SqlServer.Dmf.Common.pdb",
+        "lib/net462/Microsoft.SqlServer.Dmf.Common.xml",
+        "lib/net462/Microsoft.SqlServer.Dmf.dll",
+        "lib/net462/Microsoft.SqlServer.Dmf.pdb",
+        "lib/net462/Microsoft.SqlServer.Dmf.xml",
+        "lib/net462/Microsoft.SqlServer.Management.Assessment.dll",
+        "lib/net462/Microsoft.SqlServer.Management.Assessment.pdb",
+        "lib/net462/Microsoft.SqlServer.Management.Assessment.xml",
+        "lib/net462/Microsoft.SqlServer.Management.Collector.dll",
+        "lib/net462/Microsoft.SqlServer.Management.Collector.pdb",
+        "lib/net462/Microsoft.SqlServer.Management.Collector.xml",
+        "lib/net462/Microsoft.SqlServer.Management.CollectorEnum.dll",
+        "lib/net462/Microsoft.SqlServer.Management.CollectorEnum.pdb",
+        "lib/net462/Microsoft.SqlServer.Management.CollectorEnum.xml",
+        "lib/net462/Microsoft.SqlServer.Management.HadrData.dll",
+        "lib/net462/Microsoft.SqlServer.Management.HadrData.pdb",
+        "lib/net462/Microsoft.SqlServer.Management.HadrData.xml",
+        "lib/net462/Microsoft.SqlServer.Management.HadrModel.dll",
+        "lib/net462/Microsoft.SqlServer.Management.HadrModel.pdb",
+        "lib/net462/Microsoft.SqlServer.Management.HadrModel.xml",
+        "lib/net462/Microsoft.SqlServer.Management.RegisteredServers.dll",
+        "lib/net462/Microsoft.SqlServer.Management.RegisteredServers.pdb",
+        "lib/net462/Microsoft.SqlServer.Management.RegisteredServers.xml",
+        "lib/net462/Microsoft.SqlServer.Management.Sdk.Sfc.dll",
+        "lib/net462/Microsoft.SqlServer.Management.Sdk.Sfc.pdb",
+        "lib/net462/Microsoft.SqlServer.Management.Sdk.Sfc.xml",
+        "lib/net462/Microsoft.SqlServer.Management.SmoMetadataProvider.dll",
+        "lib/net462/Microsoft.SqlServer.Management.SmoMetadataProvider.pdb",
+        "lib/net462/Microsoft.SqlServer.Management.SmoMetadataProvider.xml",
+        "lib/net462/Microsoft.SqlServer.Management.SqlScriptPublish.dll",
+        "lib/net462/Microsoft.SqlServer.Management.SqlScriptPublish.pdb",
+        "lib/net462/Microsoft.SqlServer.Management.SqlScriptPublish.xml",
+        "lib/net462/Microsoft.SqlServer.Management.XEvent.dll",
+        "lib/net462/Microsoft.SqlServer.Management.XEvent.pdb",
+        "lib/net462/Microsoft.SqlServer.Management.XEvent.xml",
+        "lib/net462/Microsoft.SqlServer.Management.XEventDbScoped.dll",
+        "lib/net462/Microsoft.SqlServer.Management.XEventDbScoped.pdb",
+        "lib/net462/Microsoft.SqlServer.Management.XEventDbScoped.xml",
+        "lib/net462/Microsoft.SqlServer.Management.XEventDbScopedEnum.dll",
+        "lib/net462/Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb",
+        "lib/net462/Microsoft.SqlServer.Management.XEventDbScopedEnum.xml",
+        "lib/net462/Microsoft.SqlServer.Management.XEventEnum.dll",
+        "lib/net462/Microsoft.SqlServer.Management.XEventEnum.pdb",
+        "lib/net462/Microsoft.SqlServer.Management.XEventEnum.xml",
+        "lib/net462/Microsoft.SqlServer.PolicyEnum.dll",
+        "lib/net462/Microsoft.SqlServer.PolicyEnum.xml",
+        "lib/net462/Microsoft.SqlServer.RegSvrEnum.dll",
+        "lib/net462/Microsoft.SqlServer.RegSvrEnum.pdb",
+        "lib/net462/Microsoft.SqlServer.RegSvrEnum.xml",
+        "lib/net462/Microsoft.SqlServer.ServiceBrokerEnum.dll",
+        "lib/net462/Microsoft.SqlServer.ServiceBrokerEnum.pdb",
+        "lib/net462/Microsoft.SqlServer.ServiceBrokerEnum.xml",
+        "lib/net462/Microsoft.SqlServer.Smo.Notebook.dll",
+        "lib/net462/Microsoft.SqlServer.Smo.Notebook.pdb",
+        "lib/net462/Microsoft.SqlServer.Smo.Notebook.xml",
+        "lib/net462/Microsoft.SqlServer.Smo.dll",
+        "lib/net462/Microsoft.SqlServer.Smo.pdb",
+        "lib/net462/Microsoft.SqlServer.Smo.xml",
+        "lib/net462/Microsoft.SqlServer.SmoExtended.dll",
+        "lib/net462/Microsoft.SqlServer.SmoExtended.pdb",
+        "lib/net462/Microsoft.SqlServer.SmoExtended.xml",
+        "lib/net462/Microsoft.SqlServer.SqlClrProvider.dll",
+        "lib/net462/Microsoft.SqlServer.SqlClrProvider.pdb",
+        "lib/net462/Microsoft.SqlServer.SqlEnum.dll",
+        "lib/net462/Microsoft.SqlServer.SqlEnum.pdb",
+        "lib/net462/Microsoft.SqlServer.SqlEnum.xml",
+        "lib/net462/Microsoft.SqlServer.SqlWmiManagement.dll",
+        "lib/net462/Microsoft.SqlServer.SqlWmiManagement.pdb",
+        "lib/net462/Microsoft.SqlServer.SqlWmiManagement.xml",
+        "lib/net462/Microsoft.SqlServer.WmiEnum.dll",
+        "lib/net462/Microsoft.SqlServer.WmiEnum.pdb",
+        "lib/net462/Microsoft.SqlServer.WmiEnum.xml",
+        "microsoft.sqlserver.sqlmanagementobjects.ssms.161.44091.28.nupkg.sha512",
+        "microsoft.sqlserver.sqlmanagementobjects.ssms.nuspec",
+        "nuspecicon.png"
       ]
     },
     "Microsoft.Win32.Registry/4.7.0": {
@@ -5793,7 +5953,8 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.0",
-      "Microsoft.EntityFrameworkCore.Tools >= 5.0.0"
+      "Microsoft.EntityFrameworkCore.Tools >= 5.0.0",
+      "Microsoft.SqlServer.SqlManagementObjects.SSMS >= 161.44091.28"
     ]
   },
   "packageFolders": {
@@ -5842,6 +6003,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[5.0.0, )"
+          },
+          "Microsoft.SqlServer.SqlManagementObjects.SSMS": {
+            "target": "Package",
+            "version": "[161.44091.28, )"
           }
         },
         "imports": [
@@ -5865,5 +6030,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.SqlServer.SqlManagementObjects.SSMS 161.44091.28' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.SqlServer.SqlManagementObjects.SSMS",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

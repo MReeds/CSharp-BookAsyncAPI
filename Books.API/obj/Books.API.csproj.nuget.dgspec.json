@@ -47,6 +47,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.0, )"
+            },
+            "Microsoft.SqlServer.SqlManagementObjects.SSMS": {
+              "target": "Package",
+              "version": "[161.44091.28, )"
             }
           },
           "imports": [

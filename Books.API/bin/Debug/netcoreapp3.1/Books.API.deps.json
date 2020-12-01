@@ -26,6 +26,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.0",
+          "Microsoft.SqlServer.SqlManagementObjects.SSMS": "161.44091.28",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -695,6 +696,157 @@
       },
       "Microsoft.NETCore.Platforms/3.1.0": {},
       "Microsoft.NETCore.Targets/1.1.3": {},
+      "Microsoft.SqlServer.SqlManagementObjects.SSMS/161.44091.28": {
+        "runtime": {
+          "lib/net462/Microsoft.Data.Tools.Sql.BatchParser.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.Assessment.Types.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/net462/Microsoft.SqlServer.Assessment.dll": {
+            "assemblyVersion": "1.100.0.0",
+            "fileVersion": "1.0.29.0"
+          },
+          "lib/net462/Microsoft.SqlServer.ConnectionInfo.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.Dmf.Common.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.Dmf.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.Management.Assessment.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.Management.Collector.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.Management.CollectorEnum.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.Management.HadrData.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.Management.HadrModel.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.Management.RegisteredServers.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.Management.Sdk.Sfc.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.Management.SmoMetadataProvider.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.Management.SqlScriptPublish.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.Management.XEvent.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.Management.XEventDbScoped.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.Management.XEventDbScopedEnum.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.Management.XEventEnum.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.PolicyEnum.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.RegSvrEnum.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.ServiceBrokerEnum.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.Smo.Notebook.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.Smo.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.SmoExtended.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.SqlClrProvider.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.SqlEnum.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.SqlWmiManagement.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          },
+          "lib/net462/Microsoft.SqlServer.WmiEnum.dll": {
+            "assemblyVersion": "16.100.0.0",
+            "fileVersion": "16.100.44091.28"
+          }
+        },
+        "compile": {
+          "lib/net462/Microsoft.Data.Tools.Sql.BatchParser.dll": {},
+          "lib/net462/Microsoft.SqlServer.Assessment.Types.dll": {},
+          "lib/net462/Microsoft.SqlServer.Assessment.dll": {},
+          "lib/net462/Microsoft.SqlServer.ConnectionInfo.dll": {},
+          "lib/net462/Microsoft.SqlServer.Dmf.Common.dll": {},
+          "lib/net462/Microsoft.SqlServer.Dmf.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.Assessment.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.Collector.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.CollectorEnum.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.HadrData.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.HadrModel.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.RegisteredServers.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.Sdk.Sfc.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.SmoMetadataProvider.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.SqlScriptPublish.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.XEvent.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.XEventDbScoped.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.XEventDbScopedEnum.dll": {},
+          "lib/net462/Microsoft.SqlServer.Management.XEventEnum.dll": {},
+          "lib/net462/Microsoft.SqlServer.PolicyEnum.dll": {},
+          "lib/net462/Microsoft.SqlServer.RegSvrEnum.dll": {},
+          "lib/net462/Microsoft.SqlServer.ServiceBrokerEnum.dll": {},
+          "lib/net462/Microsoft.SqlServer.Smo.Notebook.dll": {},
+          "lib/net462/Microsoft.SqlServer.Smo.dll": {},
+          "lib/net462/Microsoft.SqlServer.SmoExtended.dll": {},
+          "lib/net462/Microsoft.SqlServer.SqlClrProvider.dll": {},
+          "lib/net462/Microsoft.SqlServer.SqlEnum.dll": {},
+          "lib/net462/Microsoft.SqlServer.SqlWmiManagement.dll": {},
+          "lib/net462/Microsoft.SqlServer.WmiEnum.dll": {}
+        }
+      },
       "Microsoft.Win32.Registry/4.7.0": {
         "dependencies": {
           "System.Security.AccessControl": "4.7.0",
@@ -3211,6 +3363,13 @@
       "sha512": "sha512-3Wrmi0kJDzClwAC+iBdUBpEKmEle8FQNsCs77fkiOIw/9oYA07bL1EZNX0kQ2OMN3xpwvl0vAtOCYY3ndDNlhQ==",
       "path": "microsoft.netcore.targets/1.1.3",
       "hashPath": "microsoft.netcore.targets.1.1.3.nupkg.sha512"
+    },
+    "Microsoft.SqlServer.SqlManagementObjects.SSMS/161.44091.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZHlA1F8pj0jAfCMACWlRE+yggYvekAF7ioyuLaL52fJigRKkzD3ECwkMTb89s3Le5cLS3C1iRJpIdnVcQBvPYw==",
+      "path": "microsoft.sqlserver.sqlmanagementobjects.ssms/161.44091.28",
+      "hashPath": "microsoft.sqlserver.sqlmanagementobjects.ssms.161.44091.28.nupkg.sha512"
     },
     "Microsoft.Win32.Registry/4.7.0": {
       "type": "package",
